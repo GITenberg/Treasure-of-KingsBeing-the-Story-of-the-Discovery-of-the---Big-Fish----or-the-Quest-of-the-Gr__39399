@@ -1,0 +1,38 @@
+_repo: Treasure-of-KingsBeing-the-Story-of-the-Discovery-of-the---Big-Fish----or-the-Quest-of-the-Gr__39399
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Woodville, Richard Caton
+    alias: Woodville, R. Caton (Richard Caton)
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '40001'
+    url: http://www.gutenberg.org/2009/agents/40001
+covers:
+- cover_type: archival
+  image_path: 39399-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Gilson, Charles
+    alias: Gilson, Charles James Louis
+    birthdate: 1878
+    deathdate: 1943
+    gutenberg_agent_id: '39884'
+    url: http://www.gutenberg.org/2009/agents/39884
+description: ''
+gutenberg_issued: '2012-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South America -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Treasure troves -- Juvenile fiction'
+title: "Treasure of Kings\r\nBeing the Story of the Discovery of the \"Big Fish,\"\
+  \ or the Quest of the Greater Treasure of the Incas of Peru."
+url: http://www.gutenberg.org/ebooks/39399
